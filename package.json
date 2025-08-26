@@ -1,0 +1,25 @@
+{
+  "name": "teste-mercadoeletronico",
+  "version": "1.0.0",
+  "description": "Teste técnico para o Mercado Eletrônico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsonso87/teste-mercadoeletronico.git"
+  },
+  "keywords": [
+    "mercado",
+    "eletrônico",
+    "frontend",
+    "vue"
+  ],
+  "author": "Robson Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsonso87/teste-mercadoeletronico/issues"
+  },
+  "homepage": "https://github.com/robsonso87/teste-mercadoeletronico#readme"
+}
